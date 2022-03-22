@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Work\C++\Brick Destroyer\main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Work\C++\Brick Destroyer\main.cpp(256,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\C++\Brick Destroyer\main.cpp(262,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\C++\Brick Destroyer\main.cpp(262,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong_OpenGL.vcxproj -> D:\Work\C++\Brick Destroyer\x64\Debug\Pong_OpenGL.exe
